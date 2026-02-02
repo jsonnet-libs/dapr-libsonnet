@@ -2,4 +2,4 @@
 
 This library is generated with [`k8s`](https://github.com/jsonnet-libs/k8s).
 
-[Docs](https://jsonnet-libs.github.io/dapr-libsonnet)
+- [1.16.8](1.16.8/README.md)
